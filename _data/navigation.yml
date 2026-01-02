@@ -8,26 +8,25 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+  - title: "CV"
+    url: /files/CV_GregoryChang_15DEC25.pdf
+    
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?user=1vXfh04AAAAJ&hl=en
 
   - title: "Talks"
     url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
+ 
+  #- title: "Portfolio"
+   # url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Service"
+    url: https://cancer.osu.edu/about/leadership/james-foundation-board/james-ambassadors-society
     
-  - title: "CV"
-    url: /cv/
+
     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+ # - title: "Guide"
+  #  url: /markdown/
