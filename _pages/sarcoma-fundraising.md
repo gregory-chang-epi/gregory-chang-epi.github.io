@@ -10,21 +10,60 @@ author_profile: true
 A rotating dinner club where friends take turns cooking and donate to my Steps for Sarcoma fundraiser.
 
 <style>
-  .ssc-card { max-width: 760px; padding: 20px; border: 1px solid #e5e7eb; border-radius: 16px; }
-  .ssc-title { font-size: 20px; font-weight: 700; margin: 0 0 6px 0; }
-  .ssc-total { font-size: 44px; font-weight: 800; margin: 0; line-height: 1.1; }
-  .ssc-sub { margin: 6px 0 18px 0; color: #6b7280; }
-  .ssc-bar { height: 18px; border-radius: 999px; overflow: hidden; display: flex; background: #f3f4f6; }
+  :root{
+    /* 🎨 Change these 2 if you want a different palette */
+    --steps1:#2563eb;   /* blue */
+    --steps2:#06b6d4;   /* cyan */
+    --supper1:#f97316;  /* orange */
+    --supper2:#facc15;  /* yellow */
+
+    --cardBorder:#e5e7eb;
+    --cardBg:#ffffff;
+    --muted:#6b7280;
+  }
+
+  .ssc-card {
+    max-width: 760px;
+    padding: 22px;
+    border: 1px solid var(--cardBorder);
+    border-radius: 18px;
+    background: var(--cardBg);
+    box-shadow: 0 10px 30px rgba(0,0,0,0.06);
+  }
+
+  .ssc-title { font-size: 20px; font-weight: 800; margin: 0 0 6px 0; }
+  .ssc-total { font-size: 44px; font-weight: 900; margin: 0; line-height: 1.1; }
+  .ssc-sub { margin: 6px 0 18px 0; color: var(--muted); font-weight: 600; }
+
+  .ssc-bar {
+    height: 20px;
+    border-radius: 999px;
+    overflow: hidden;
+    display: flex;
+    background: #f3f4f6;
+    box-shadow: inset 0 1px 2px rgba(0,0,0,0.10);
+  }
+
   .ssc-seg { height: 100%; }
-  .ssc-steps { background: #111827; }
-  .ssc-supper { background: #9ca3af; }
+
+  /* ✅ colorful segments (with subtle gradients) */
+  .ssc-steps  { background: linear-gradient(90deg, var(--steps1), var(--steps2)); }
+  .ssc-supper { background: linear-gradient(90deg, var(--supper1), var(--supper2)); }
+
   .ssc-legend { display: grid; gap: 10px; margin-top: 14px; }
   .ssc-row { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
   .ssc-left { display: flex; align-items: center; gap: 10px; }
-  .ssc-swatch { width: 12px; height: 12px; border-radius: 3px; }
-  .ssc-note { font-size: 14px; color: #6b7280; margin-top: 12px; }
+
+  .ssc-swatch { width: 12px; height: 12px; border-radius: 4px; }
+
+  /* make swatches match the gradients */
+  .ssc-swatch.ssc-steps  { background: linear-gradient(135deg, var(--steps1), var(--steps2)); }
+  .ssc-swatch.ssc-supper { background: linear-gradient(135deg, var(--supper1), var(--supper2)); }
+
+  .ssc-note { font-size: 14px; color: var(--muted); margin-top: 12px; }
   .ssc-mono { font-variant-numeric: tabular-nums; }
 </style>
+
 
 <div class="ssc-card">
   <p class="ssc-title">Sarcoma Supper Club Fundraising</p>
