@@ -15,7 +15,7 @@ main:
     url: https://scholar.google.com/citations?user=1vXfh04AAAAJ&hl=en
 
   - title: "Reports"
-    url: /files/reports/  
+    url: /reports/  
 
   - title: "Talks"
     url: /talks/    
