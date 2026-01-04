@@ -119,8 +119,6 @@ I am on the board of the Survivorship Committee, where we host yearly events to 
   </div>
 </div>
 
-### Steps for Sarcoma
-
 <div style="width: 100%; margin-bottom: 20px;">
   <img src="/images/StepsforSarcoma_Logo.png" 
        alt="Banner Logo" 
@@ -151,7 +149,7 @@ A rotating dinner club where friends take turns cooking and donate to my Steps f
 
 </div>
 <p style="text-align: center; font-style: italic; font-size: 0.9em; color: #666;">
-  Scroll horizontally to view more photos.
+  
 </p>
 
 
