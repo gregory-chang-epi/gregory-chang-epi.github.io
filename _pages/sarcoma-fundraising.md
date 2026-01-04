@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-## The James Cancer Hospital NextGeneration Ambassador
+## The James Cancer Hospital NextGen Ambassador
 [The James Next Generation Ambassadors Society](https://cancer.osu.edu/about/leadership/james-foundation-board/james-ambassadors-society) unites young professionals and cancer survivors in Columbus to support the OSUCCC – James through dedicated advocacy, networking, and fundraising. With a primary focus on championing Adolescent and Young Adult (AYA) cancer research, this group empowers the next generation of leaders to help create a cancer-free world.
 
 We host the annual [Mac and Cheese](), raising over **$584,000** in the past eight years!
@@ -23,6 +23,8 @@ We host the annual [Mac and Cheese](), raising over **$584,000** in the past eig
   </div>
 </div>
 
+
+[In the News](https://cancer.osu.edu/blog/how-a-young-cancer-survivor-shares-support-with-others-through-alliance-and-advocacy)
 
 ### Survivorship Board Member
 
