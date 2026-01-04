@@ -135,16 +135,16 @@ A rotating dinner club where friends take turns cooking and donate to my Steps f
 
 <div style="display: flex; overflow-x: auto; scroll-snap-type: x mandatory; gap: 10px; padding-bottom: 15px; -webkit-overflow-scrolling: touch;">
 
-  <img src="images/Menu_1.png" alt="Chinese" 
+  <img src="/images/Menu_1.png" alt="Chinese" 
        style="flex: 0 0 auto; height: 300px; scroll-snap-align: start; border-radius: 8px; border: 1px solid #ddd;">
 
   <img src="/images/Menu_2.png" alt="Mediterranean" 
        style="flex: 0 0 auto; height: 300px; scroll-snap-align: start; border-radius: 8px; border: 1px solid #ddd;">
 
-  <img src="images/Menu_3.jpeg" alt="Apt211" 
+  <img src="/images/Menu_3.jpeg" alt="Apt211" 
        style="flex: 0 0 auto; height: 300px; scroll-snap-align: start; border-radius: 8px; border: 1px solid #ddd;">
 
-  <img src="images/Menu_4.jpg" alt="LoveLazars" 
+  <img src="/images/Menu_4.jpg" alt="LoveLazars" 
        style="flex: 0 0 auto; height: 300px; scroll-snap-align: start; border-radius: 8px; border: 1px solid #ddd;">
 
 </div>
