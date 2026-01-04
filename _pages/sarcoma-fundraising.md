@@ -1,12 +1,41 @@
 ---
-title: "Sarcoma Fundraising"
+title: "Service"
 permalink: /sarcoma-fundraising/
 layout: single
 author_profile: true
 ---
 
-## Sarcoma Supper Club Fundraising
+## The James Cancer Hospital NextGeneration Ambassador
+[The James Next Generation Ambassadors Society](https://cancer.osu.edu/about/leadership/james-foundation-board/james-ambassadors-society) unites young professionals and cancer survivors in Columbus to support the OSUCCC – James through dedicated advocacy, networking, and fundraising. With a primary focus on championing Adolescent and Young Adult (AYA) cancer research, this group empowers the next generation of leaders to help create a cancer-free world.
 
+We host the annual [Mac and Cheese](), raising over **$584,000** in the past eight years!
+
+<div style="max-width: 800px; margin: 1rem 0;">
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 12px;">
+    <iframe
+      src="youtube.com/watch?time_continue=29&v=ya4_a0HL9J4&embeds_referring_euri=https%3A%2F%2Fcancer.osu.edu%2F&embeds_referring_origin=https%3A%2F%2Fcancer.osu.edu"
+      title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    </iframe>
+  </div>
+</div>
+
+### Survivorship Board Member
+
+I am on the board of the Survivorship Committee, where we host yearly events to support fellow AYA cancer survivors. Our mission is to connect AYA cancer survivors to connect and give back. We address the unique challenges of the AYA community by fostering a supportive environment for navigating life after cancer. 
+
+## Sarcoma Fundraising
+
+### Steps for Sarcoma
+
+Steps for Sarcoma is an annual fundraising event in Columbus, Ohio, featuring a 5K run and 1-mile walk at The Lawn at CAS to support research at The Ohio State University Comprehensive Cancer Center – James Cancer Hospital.
+
+[Steps for Sarcoma Website](https://cancer.osu.edu/for-donors-and-volunteers/signature-events/steps-for-sarcoma)
+
+### Sarcoma Supper Club
 A rotating dinner club where friends take turns cooking and donate to my Steps for Sarcoma fundraiser.
 
 <style>
