@@ -121,9 +121,15 @@ I am on the board of the Survivorship Committee, where we host yearly events to 
 
 ### Steps for Sarcoma
 
-<img src="{{ '/images/sarcoma_2024.jpg' | relative_url }}"
+<div style="width: 100%; margin-bottom: 20px;">
+  <img src="/images/StepsforSarcoma_Logo.png" 
+       alt="Banner Logo" 
+       style="width: 50%; height: auto; border-radius: 4px; display: block;">
+</div>
+
+<img src="{{ '/images/StepsforSarcoma_Logo.png' | relative_url }}"
      alt="Description"
-     style="float:right; width:420px; max-width:45%; height:auto; margin:0 0 12px 18px; border-radius:12px;" />
+     style="float:right; width:420px; max-width:45%; height:50%; margin:0 0 12px 18px; border-radius:12px;" />
 
 [Steps for Sarcoma](https://cancer.osu.edu/for-donors-and-volunteers/signature-events/steps-for-sarcoma) is an annual fundraising event in Columbus, Ohio, featuring a 5K run and 1-mile walk at The Lawn at CAS to support research at The Ohio State University Comprehensive Cancer Center – James Cancer Hospital.
 
