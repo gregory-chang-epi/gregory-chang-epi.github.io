@@ -89,7 +89,7 @@ I am on the board of the Survivorship Committee, where we host yearly events to 
 
 
 <div class="ssc-card">
-  <p class="ssc-title">Sarcoma Supper Club Fundraising</p>
+  <p class="ssc-title">Sarcoma Fundraising</p>
   <p class="ssc-total ssc-mono">$6,365</p>
   <p class="ssc-sub">Raised so far</p>
 
