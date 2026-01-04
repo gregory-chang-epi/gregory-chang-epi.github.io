@@ -121,7 +121,7 @@ I am on the board of the Survivorship Committee, where we host yearly events to 
 
 ### Steps for Sarcoma
 
-<img src="{{ '/images/sarcoma2024.png' | relative_url }}"
+<img src="{{ '/images/sarcoma_2024.jpg' | relative_url }}"
      alt="Description"
      style="float:right; width:260px; margin:0 0 12px 16px; border-radius:12px;" />
 
