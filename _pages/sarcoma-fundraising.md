@@ -125,12 +125,12 @@ I am on the board of the Survivorship Committee, where we host yearly events to 
      alt="Description"
      style="float:right; width:420px; max-width:45%; height:auto; margin:0 0 12px 18px; border-radius:12px;" />
 
-Steps for Sarcoma is an annual fundraising event in Columbus, Ohio, featuring a 5K run and 1-mile walk at The Lawn at CAS to support research at The Ohio State University Comprehensive Cancer Center – James Cancer Hospital.
+[Steps for Sarcoma](https://cancer.osu.edu/for-donors-and-volunteers/signature-events/steps-for-sarcoma) is an annual fundraising event in Columbus, Ohio, featuring a 5K run and 1-mile walk at The Lawn at CAS to support research at The Ohio State University Comprehensive Cancer Center – James Cancer Hospital.
 
 <div style="clear:both;"></div>
 
 
-[Steps for Sarcoma Website](https://cancer.osu.edu/for-donors-and-volunteers/signature-events/steps-for-sarcoma)
+[Steps for Sarcoma Website]
 
 ### Sarcoma Supper Club
 A rotating dinner club where friends take turns cooking and donate to my Steps for Sarcoma fundraiser.
