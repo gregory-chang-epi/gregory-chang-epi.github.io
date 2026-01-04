@@ -130,8 +130,6 @@ I am on the board of the Survivorship Committee, where we host yearly events to 
 <div style="clear:both;"></div>
 
 
-[Steps for Sarcoma Website]
-
 ### Sarcoma Supper Club
 A rotating dinner club where friends take turns cooking and donate to my Steps for Sarcoma fundraiser.
 
