@@ -13,7 +13,7 @@ We host the annual [Mac and Cheese](), raising over **$584,000** in the past eig
 <div style="max-width: 800px; margin: 1rem 0;">
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 12px;">
     <iframe
-      src="[youtube.com/watch?time_continue=29&v=ya4_a0HL9J4&embeds_referring_euri=https%3A%2F%2Fcancer.osu.edu%2F&embeds_referring_origin=https%3A%2F%2Fcancer.osu.edu](https://www.youtube.com/watch?v=ya4_a0HL9J4&t=29s)"
+      src="[src="https://www.youtube.com/embed/ya4_a0HL9J4&t=29s"
       title="YouTube video player"
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
