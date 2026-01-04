@@ -133,5 +133,23 @@ I am on the board of the Survivorship Committee, where we host yearly events to 
 ### Sarcoma Supper Club
 A rotating dinner club where friends take turns cooking and donate to my Steps for Sarcoma fundraiser.
 
+<div style="display: flex; overflow-x: auto; scroll-snap-type: x mandatory; gap: 10px; padding-bottom: 15px; -webkit-overflow-scrolling: touch;">
+
+  <img src="images/Menu_1.png" alt="GrAmy's Express" 
+       style="flex: 0 0 auto; height: 300px; scroll-snap-align: start; border-radius: 8px; border: 1px solid #ddd;">
+
+  <img src="/images/Menu_2.png" alt="Mediterranean" 
+       style="flex: 0 0 auto; height: 300px; scroll-snap-align: start; border-radius: 8px; border: 1px solid #ddd;">
+
+  <img src="images/Menu_3.png" alt="Apt 211" 
+       style="flex: 0 0 auto; height: 300px; scroll-snap-align: start; border-radius: 8px; border: 1px solid #ddd;">
+
+  <img src="/images/Menu_4.png" alt="Love at the Lazars" 
+       style="flex: 0 0 auto; height: 300px; scroll-snap-align: start; border-radius: 8px; border: 1px solid #ddd;">
+
+</div>
+<p style="text-align: center; font-style: italic; font-size: 0.9em; color: #666;">
+  Scroll horizontally to view more photos.
+</p>
 
 
