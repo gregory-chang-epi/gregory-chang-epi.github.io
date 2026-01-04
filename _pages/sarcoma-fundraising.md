@@ -13,8 +13,8 @@ We host the annual [Mac and Cheese](), raising over **$584,000** in the past eig
 <div style="max-width: 800px; margin: 1rem 0;">
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 12px;">
     <iframe
-      src="https://www.youtube.com/embed/ya4_a0HL9J4&t=29s"
-      title="YouTube video player"
+      src="https://www.youtube.com/embed/ya4_a0HL9J4?start=29"
+      title="2025 Columbus Mac and Cheese Festival"
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
       allowfullscreen
@@ -123,7 +123,7 @@ I am on the board of the Survivorship Committee, where we host yearly events to 
 
 <img src="{{ '/images/sarcoma_2024.jpg' | relative_url }}"
      alt="Description"
-     style="float:right; width:260px; margin:0 0 12px 16px; border-radius:12px;" />
+     style="float:right; width:420px; max-width:45%; height:auto; margin:0 0 12px 18px; border-radius:12px;" />
 
 Steps for Sarcoma is an annual fundraising event in Columbus, Ohio, featuring a 5K run and 1-mile walk at The Lawn at CAS to support research at The Ohio State University Comprehensive Cancer Center – James Cancer Hospital.
 
