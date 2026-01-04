@@ -24,12 +24,8 @@ main:
    # url: /portfolio/
         
   - title: "Service"
-    url: https://cancer.osu.edu/about/leadership/james-foundation-board/james-ambassadors-society
- 
-  - title: "Sarcoma Fundraising"
     url: /sarcoma-fundraising/
-
-    
+     
   # - title: "CV"
   #   url: /cv-json/
     
