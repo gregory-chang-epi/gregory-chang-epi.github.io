@@ -38,6 +38,7 @@ I am passionate about bridging the gap between complex data and actionable healt
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![ArcGIS](https://img.shields.io/badge/arcgis-%232C7BB6.svg?style=for-the-badge&logo=esri&logoColor=white)
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
