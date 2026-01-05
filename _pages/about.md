@@ -11,12 +11,23 @@ I am a **PhD Candidate in Epidemiology** at **The Ohio State University** (Expec
 
 Currently, my dissertation examines the structural and spatial factors associated with HIV viral load suppression and drug resistance in East Africa, utilizing population-based survey data.
 
+<figure style="text-align: center; margin: 20px 0;">
+  <img src="/images/map.jpg" 
+       alt="Spatial Analysis of HIV in Tanzania" 
+       style="width: 100%; max-width: 600px; border-radius: 6px; border: 1px solid #eee; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <figcaption style="font-size: 0.85em; color: #666; font-style: italic; margin-top: 10px;">
+    Spatial interpolation of HIV viral load suppression in Tanzania (Dissertation Analysis).
+  </figcaption>
+</figure>
+
 Prior to my doctoral studies, I gained significant industry and federal experience:
 * **Analysis Group (HEOR Associate Intern):** I led retrospective oncology RWE analyses, developing pipelines in R and SQL for multiple myeloma studies.
 * **U.S. Centers for Disease Control and Prevention (Epidemiologist):** I supported national HIV surveys (PHIA) in five African countries and analyzed complex survey data for the Division of Global HIV & TB.
 * **CDC COVID-19 Task Force (Analyst):** I managed clinician-reported reinfection investigations and built REDCap reporting systems.
 
 I am passionate about bridging the gap between complex data and actionable health insights. 
+
+**Interests:** Health Economics and Outcomes Research (HEOR), Real-World Evidence (RWE), Oncology, Infectious Disease, and Causal Inference.
 
 **Technical Toolkit:**
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -27,6 +38,6 @@ I am passionate about bridging the gap between complex data and actionable healt
 ![ArcGIS](https://img.shields.io/badge/arcgis-%232C7BB6.svg?style=for-the-badge&logo=esri&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-**Interests:** Health Economics and Outcomes Research (HEOR), Real-World Evidence (RWE), Oncology, Infectious Disease, and Causal Inference.
+
 
 
