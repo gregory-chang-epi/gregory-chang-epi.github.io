@@ -18,10 +18,14 @@ Prior to my doctoral studies, I gained significant industry and federal experien
 
 I am passionate about bridging the gap between complex data and actionable health insights. 
 
-Technical Toolkit:
-* **Analysis**: R (tidyverse, markdown), SAS, Python, STATA
-* **Data Engineering**: SQL (Snowflake), Git
-* **Geospatial**: ArcGIS Pro, QGIS
+**Technical Toolkit:**
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![R Markdown](https://img.shields.io/badge/R_Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-005DAA?style=for-the-badge&logo=sas&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/arcgis-%232C7BB6.svg?style=for-the-badge&logo=esri&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 **Interests:** Health Economics and Outcomes Research (HEOR), Real-World Evidence (RWE), Oncology, Infectious Disease, and Causal Inference.
 
