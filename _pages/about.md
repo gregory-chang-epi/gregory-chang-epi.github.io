@@ -7,18 +7,20 @@ redirect_from:
   - /about.html
 ---
 
+<figure style="float: right; margin-left: 20px; margin-bottom: 15px; width: 45%; max-width: 350px;">
+  <img src="/images/map.jpg" 
+       alt="Spatial Analysis of HIV in Tanzania" 
+       style="width: 100%; border-radius: 6px; border: 1px solid #eee; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <figcaption style="font-size: 0.8em; color: #666; font-style: italic; text-align: center; margin-top: 8px; line-height: 1.2;">
+    Spatial interpolation of HIV viral load suppression in Tanzania (Dissertation Analysis).
+  </figcaption>
+</figure>
+
 I am a **PhD Candidate in Epidemiology** at **The Ohio State University** (Expected May 2026). My research focuses on **oncology real-world evidence (RWE)**, retrospective observational study design, and advanced statistical programming in **R and SQL**.
 
 Currently, my dissertation examines the structural and spatial factors associated with HIV viral load suppression and drug resistance in East Africa, utilizing population-based survey data.
 
-<figure style="text-align: center; margin: 20px 0;">
-  <img src="/images/map.jpg" 
-       alt="Spatial Analysis of HIV in Tanzania" 
-       style="width: 100%; max-width: 600px; border-radius: 6px; border: 1px solid #eee; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  <figcaption style="font-size: 0.85em; color: #666; font-style: italic; margin-top: 10px;">
-    Spatial interpolation of HIV viral load suppression in Tanzania (Dissertation Analysis).
-  </figcaption>
-</figure>
+<div style="clear: both;"></div>
 
 Prior to my doctoral studies, I gained significant industry and federal experience:
 * **Analysis Group (HEOR Associate Intern):** I led retrospective oncology RWE analyses, developing pipelines in R and SQL for multiple myeloma studies.
