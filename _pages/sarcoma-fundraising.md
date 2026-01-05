@@ -11,6 +11,19 @@ author_profile: true
 The [**James Next Generation Ambassadors Society**](https://cancer.osu.edu/about/leadership/james-foundation-board/james-ambassadors-society) unites young professionals and cancer survivors in Columbus to support the OSUCCC – James. With a primary focus on championing Adolescent and Young Adult (AYA) cancer research, we empower the next generation of leaders to create a cancer-free world.
 
 As a board member, I help host the annual **Columbus Mac and Cheese Festival**, which has raised over **$584,000** in the past eight years for AYA survivorship programs.
+<div style="background-color: #f3f6f9; padding: 15px; border-left: 4px solid #bb0000; border-radius: 4px; margin-top: 15px;">
+  <p style="margin: 0; font-size: 0.85rem; color: #666; text-transform: uppercase; letter-spacing: 1px; font-weight: bold;">
+    In the Media
+  </p>
+  <h3 style="margin: 5px 0 10px; font-size: 1.1rem;">
+    <a href="https://cancer.osu.edu/blog/how-a-young-cancer-survivor-shares-support-with-others-through-alliance-and-advocacy" target="_blank" style="text-decoration: none; color: #bb0000;">
+      How a young cancer survivor shares support with others through alliance and advocacy
+    </a>
+  </h3>
+  <p style="margin: 0; font-size: 0.9rem; color: #444;">
+    <em>OSUCCC – James Blog (Oct 2024)</em> — A feature on my journey with Ewing’s Sarcoma and my work with the NextGen Ambassadors to support fellow AYA survivors.
+  </p>
+</div>
 
 <div style="max-width: 800px; margin: 1rem 0;">
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 12px;">
@@ -24,9 +37,6 @@ As a board member, I help host the annual **Columbus Mac and Cheese Festival**, 
     </iframe>
   </div>
 </div>
-
-
-[In the News](https://cancer.osu.edu/blog/how-a-young-cancer-survivor-shares-support-with-others-through-alliance-and-advocacy)
 
 ---
 
