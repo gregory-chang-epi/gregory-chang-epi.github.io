@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+em# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -26,7 +26,7 @@ author:
   avatar           : "profile_NCH.png"
   name             : "Gregory C. Chang"
   pronouns         : # example: "she/her"  
-  bio              : "Health Economics and Outcomes Research Specialist"
+  bio              : "Epidemiologist & RWE Researcher"
   location         : "Columbus, OH"
   employer         : "The Ohio State University"
   uri              : # URL
