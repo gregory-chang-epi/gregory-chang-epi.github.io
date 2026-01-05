@@ -72,7 +72,7 @@ Beyond my board service, I lead personal fundraising initiatives to support sarc
      alt="Steps for Sarcoma Logo" 
      style="float: right; width: 200px; margin-left: 20px; margin-bottom: 10px;">
 
-**Steps for Sarcoma** is an annual fundraising event in Columbus, Ohio, featuring a 5K run and 1-mile walk at The Lawn at CAS to support research at The Ohio State University Comprehensive Cancer Center – James Cancer Hospital.
+Annual fundraising event in Columbus, Ohio, featuring a 5K run and 1-mile walk at The Lawn at CAS to support research at The Ohio State University Comprehensive Cancer Center – James Cancer Hospital.
 
 ### The "Sarcoma Supper Club"
 To engage my network in a personal way, I founded the **Sarcoma Supper Club**—a rotating dinner series where friends take turns cooking gourmet meals, with "ticket sales" donated directly to sarcoma research.
