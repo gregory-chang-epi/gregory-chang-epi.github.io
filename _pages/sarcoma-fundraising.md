@@ -1,5 +1,5 @@
 ---
-title: "Service"
+title: "Service & Leadership"
 permalink: /sarcoma-fundraising/
 layout: single
 author_profile: true
@@ -25,7 +25,7 @@ As a board member, I help host the annual **Columbus Mac and Cheese Festival**, 
   </p>
 </div>
 
-<div style="max-width: 800px; margin: 1rem 0;">
+<div style="max-width: 800px; margin: 3rem 0;">
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 12px;">
     <iframe
       src="https://www.youtube.com/embed/ya4_a0HL9J4?start=29"
@@ -37,7 +37,9 @@ As a board member, I help host the annual **Columbus Mac and Cheese Festival**, 
     </iframe>
   </div>
 </div>
-
+<p style="text-align: center; font-style: italic; font-size: 0.8em; color: #666; margin-top: 10px; margin-bottom: 40px;">
+  Recap of the 2025 Festival, supporting AYA cancer research.
+</p>
 ---
 
 ## Sarcoma Fundraising
