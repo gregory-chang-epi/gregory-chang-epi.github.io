@@ -51,7 +51,7 @@ Beyond my board service, I lead personal fundraising initiatives to support sarc
   <div style="background: #f8f9fa; border-left: 5px solid #bb0000; padding: 15px; flex: 1; min-width: 200px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
     <h3 style="margin: 0; font-size: 1rem; color: #555;">Total Raised</h3>
     <p style="font-size: 1.8rem; font-weight: bold; margin: 5px 0; color: #333;">$6,365</p>
-    <p style="font-size: 0.8rem; color: #888; margin: 0;">2025 - Present</p>
+    <p style="font-size: 0.8rem; color: #888; margin: 0;">2023 - Present</p>
   </div>
 
   <div style="background: #f8f9fa; border-left: 5px solid #ffcc00; padding: 15px; flex: 1; min-width: 200px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
