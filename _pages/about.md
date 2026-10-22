@@ -31,6 +31,8 @@ Before ZOLL, I gained industry, academic, and federal experience:
 
 I am passionate about bridging the gap between complex data and actionable health insights. 
 
+**Honors:** [Dean's Award for Public Health Impact](https://cph.osu.edu/news/five-students-honored-new-awards-excellence), The Ohio State University College of Public Health (2026), recognizing my cancer disparities research and advocacy.
+
 **Interests:** Health Economics and Outcomes Research (HEOR), Real-World Evidence (RWE), Medical Devices and Cardiovascular Outcomes, Market Access, Oncology, Infectious Disease, and Causal Inference.
 
 **Technical Toolkit:**
