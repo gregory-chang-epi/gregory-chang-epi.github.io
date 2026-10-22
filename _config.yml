@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Health Economist & Epidemiologist"
   location         : "Columbus, OH"
-  employer         : "ZOLL CMS"
+  employer         : '<a href="https://cardiac.zoll.com/about-us">ZOLL CMS</a>'
   uri              : # URL
   email            : "gcchang03@gmail.com"
 
