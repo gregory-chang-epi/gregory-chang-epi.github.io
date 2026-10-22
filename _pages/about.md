@@ -16,20 +16,22 @@ redirect_from:
   </figcaption>
 </figure>
 
-I am a **PhD Candidate in Epidemiology** at **The Ohio State University** (Expected April 2026). My research focuses on **oncology real-world evidence (RWE)**, retrospective observational study design, and advanced statistical programming in **R and SQL**.
+I am a **Health Economics Specialist** at **ZOLL Cardiac Management Solutions**, where I generate real-world evidence for cardiac medical devices. I earned my **PhD in Epidemiology** from **The Ohio State University** in May 2026.
 
-Currently, my dissertation examines the structural and spatial factors associated with HIV viral load suppression and drug resistance in East Africa, utilizing population-based survey data.
+At ZOLL, I lead **real-world evidence (RWE) analyses using healthcare claims data** for the **LifeVest** wearable cardioverter defibrillator, the **Heart Failure Management System (HFMS)**, and **TherOx SuperSaturated Oxygen (SSO2) Therapy**, evaluating device utilization, clinical outcomes, and healthcare resource use to support market access. I also build **Power BI dashboards** that turn internal operational and commercial data into business intelligence for leadership.
+
+My dissertation examined the structural and spatial factors associated with HIV viral load suppression in East Africa using population-based survey data.
 
 <div style="clear: both;"></div>
 
-Prior to my doctoral studies, I gained significant industry and federal experience:
+Before ZOLL, I gained industry, academic, and federal experience:
 * **Analysis Group (HEOR Associate Intern):** I led retrospective oncology RWE analyses, developing pipelines in R and SQL for multiple myeloma studies.
 * **U.S. Centers for Disease Control and Prevention (Epidemiologist):** I supported national HIV surveys (PHIA) in five African countries and analyzed complex survey data for the Division of Global HIV & TB.
 * **CDC COVID-19 Task Force (Analyst):** I managed clinician-reported reinfection investigations and built REDCap reporting systems.
 
 I am passionate about bridging the gap between complex data and actionable health insights. 
 
-**Interests:** Health Economics and Outcomes Research (HEOR), Real-World Evidence (RWE), Oncology, Infectious Disease, and Causal Inference.
+**Interests:** Health Economics and Outcomes Research (HEOR), Real-World Evidence (RWE), Medical Devices and Cardiovascular Outcomes, Market Access, Oncology, Infectious Disease, and Causal Inference.
 
 **Technical Toolkit:**
 
@@ -38,10 +40,8 @@ I am passionate about bridging the gap between complex data and actionable healt
 ![SAS](https://img.shields.io/badge/SAS-005DAA?style=for-the-badge&logo=sas&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![ArcGIS](https://img.shields.io/badge/arcgis-%232C7BB6.svg?style=for-the-badge&logo=esri&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-
-
-
