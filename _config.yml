@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Gregory C. Chang, PhD (May 2026)"
+title                    : "Gregory C. Chang, PhD"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Gregory C. Chang, PhD"
+description              : &description "Gregory C. Chang, PhD — health economist and epidemiologist specializing in real-world evidence (RWE) and HEOR"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://gregory-chang-epi.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,11 +26,11 @@ author:
   avatar           : "profile_NCH.png"
   name             : "Gregory C. Chang"
   pronouns         : # example: "she/her"  
-  bio              : "Epidemiologist & RWE Researcher"
+  bio              : "Health Economist & Epidemiologist"
   location         : "Columbus, OH"
-  employer         : "The Ohio State University"
+  employer         : "ZOLL Cardiac Management Solutions"
   uri              : # URL
-  email            : "chang.1582@osu.edu" 
+  email            : "gcchang03@gmail.com"
 
   # Academic websites
   academia         : # URL
