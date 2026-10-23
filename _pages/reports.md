@@ -87,7 +87,7 @@ layout: single
   .section-heading{ margin-top:2rem; }
 </style>
 
-## Data Products {#data-products .section-heading}
+<h2 id="data-products" class="section-heading">Data Products</h2>
 
 <div class="report-grid">
 {% for d in site.data.data_products %}
@@ -120,7 +120,7 @@ layout: single
 
 
 
-## Reports {#reports .section-heading}
+<h2 id="reports" class="section-heading">Reports</h2>
 
 <div class="report-grid">
 {% for r in site.data.reports %}
