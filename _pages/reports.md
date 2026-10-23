@@ -85,13 +85,28 @@ layout: single
   .report-links a{ text-decoration:none; }
   .report-links a:hover{ text-decoration:underline; }
   .section-heading{ margin-top:2rem; }
+  .feature-grid{ grid-template-columns:1fr; }
+  .report-feature .report-thumb img{ object-position:center top; }
+  @media (min-width:600px){
+    .report-feature{
+      display:grid;
+      grid-template-columns:5fr 6fr;
+    }
+    .report-feature > a.report-main{ height:100%; }
+    .report-feature .report-thumb{
+      aspect-ratio:auto;
+      height:100%;
+      min-height:240px;
+    }
+    .report-feature .report-meta{ padding:20px 22px; }
+  }
 </style>
 
 <h2 id="data-products" class="section-heading">Data Products</h2>
 
-<div class="report-grid">
+<div class="report-grid feature-grid">
 {% for d in site.data.data_products %}
-  <div class="report-card">
+  <div class="report-card report-feature">
     <a class="report-main" href="{{ d.link }}" target="_blank" rel="noopener">
       <div class="report-thumb">
         <img src="{{ d.image | relative_url }}" alt="{{ d.title }} preview image">
