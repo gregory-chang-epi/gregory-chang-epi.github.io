@@ -1,4 +1,5 @@
 - title: "Medical Expert Panel on Preventable Cancers: White Paper – Achieving equity and eliminating preventable cancer disparities within racial and ethnic populations (Vol. 3)"
+  type: "White paper"
   org: "Ohio Commission on Minority Health"
   date: "May 16, 2025"
   image: "images/reports/MEP_WhitePaper_image.png"
@@ -6,6 +7,7 @@
   contribution: "Partnered with multidisciplinary oncology experts to synthesize clinical and epidemiological evidence, identifying critical gaps in the cancer care continuum and defining actionable strategies for state legislature."
 
 - title: "Zimbabwe Population-based HIV Impact Assessment (ZIMPHIA) 2020 Final Report"
+  type: "Survey report"
   org: "ZIMPHIA"
   date: "2020"
   image: "images/reports/ZIMPHIA2020_image.png"
@@ -13,6 +15,7 @@
   contribution: "Provided technical assistance in interview and tablet training, monitored field practice before survey implementation, and supported data analysis for the final report."
 
 - title: "KENPHIA 2018 Final Report"
+  type: "Survey report"
   org: "National AIDS and STI Control Programme (NASCOP), Kenya"
   date: "2018"
   image: "images/reports/KENPHIA_image.png"
@@ -20,6 +23,7 @@
   contribution: "Provided technical assistance to survey implementation, return of viral load results evaluation, and data analysis for the final report."
 
 - title: "Nigeria HIV/AIDS Indicator Survey (NAIIS) 2018 Final Report"
+  type: "Survey report"
   org: "NAIIS, Nigeria"
   date: "2018"
   image: "images/reports/NAIIS_image.png"
